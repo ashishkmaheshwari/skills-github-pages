@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Math is incredible!
 ---
+## Remember: Everything is impermanent
